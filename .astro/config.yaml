@@ -1,0 +1,6 @@
+postgres:
+    port: "5435"
+project:
+    name: ol-custom-facets
+webserver:
+    port: "8081"
